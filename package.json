@@ -1,0 +1,14 @@
+{
+  "name": "dx-tools",
+  "version": "0.0.0",
+  "scripts": {
+    "interface_server": "node example/interface_server.js",
+    "mock_request": "node example/mock_request.js"
+  },
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "puppeteer": "^2.0.0"
+  }
+}
