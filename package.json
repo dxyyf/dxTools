@@ -5,6 +5,7 @@
     "interface_server": "node example/interface_server.js",
     "mock_request": "node example/mock_request.js"
   },
+  "typings": "types/index.d.ts",
   "private": true,
   "dependencies": {},
   "devDependencies": {

@@ -10,4 +10,4 @@ const interfaces = {
   },
 };
 
-dxServer(interfaces);
+dxServer.nodeHttpServer(interfaces);
